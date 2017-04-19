@@ -47,7 +47,7 @@ talks:
   - given: Roberto
     family: Calandra
     url: http://www.ausy.tu-darmstadt.de/Team/RobertoCalandra
-    institute: TU Darmstadt
+    institute: UC Berkeley
   youtube: 
   start: "10:30"
   end: "11:00"
